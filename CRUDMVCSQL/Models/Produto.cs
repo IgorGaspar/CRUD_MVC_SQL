@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CRUDMVCSQL.Models
 {
+    /// <summary>
+    /// Classe criada para adicionar tabela "Produto" e colunas "ID" e "Nome".
+    /// </summary>
     [Table("Produto")]
     public class Produto
     {
