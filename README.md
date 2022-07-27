@@ -44,5 +44,5 @@ Ao rodar o projeto, será aberto no navegador o link, com duas abas "Home" e "Pr
 
 Igor Fontes Gaspar
 
-https://www.linkedin.com/in/igor-fontes-gaspar-2a315a9b/
+https://www.linkedin.com/in/igorfgaspar/
 
